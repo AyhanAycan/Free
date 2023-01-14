@@ -48,6 +48,12 @@ a {
     text-decoration: none;
     color:red
 }
+li a:hover{background-color: white;
+    color:blue;
+    padding: 10px;
+border: 1px solid red;
+border-radius: 15px;
+}
 h2{color:blue}
 .cont {
     width: 100%;
